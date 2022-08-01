@@ -48,5 +48,8 @@ body {
   justify-content: center;
   text-align: center;
   height: 100%;
+}
 
+#showcase h1 {
+  font-size: 4rem;
 }
